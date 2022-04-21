@@ -1,2 +1,2 @@
 # Timer
- https://oksana-max.github.io/Timer/
+ https://oksana-max.github.io/TimerApp/
